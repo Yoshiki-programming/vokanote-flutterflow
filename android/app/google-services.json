@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "327832564227",
+    "project_id": "voka-note",
+    "storage_bucket": "voka-note.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327832564227:android:c2cca1c52445b848ddd436",
+        "android_client_info": {
+          "package_name": "com.kamadayoshiki.vakanoteportfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327832564227-5kh0mhodb9mm3b1ig6htpsq576riom1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamadayoshiki.vakanoteportfolio",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "327832564227-vde4t2f6mbur8mjqjp6ci4siiu983b52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCFp4bFJdG77BPGTvTML0ZfkxPRgBAw8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327832564227-vde4t2f6mbur8mjqjp6ci4siiu983b52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327832564227-5eu7l698m955ndqqla4jfor42mndmvsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kamadayoshiki.vakanoteportfolio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
