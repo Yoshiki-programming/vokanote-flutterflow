@@ -2,6 +2,17 @@
 
 **vokanote** は、FlutterFlowで構築された「直感的な操作」と「AIによる学習支援」を融合させた、韓国語学習者向けの単語帳アプリケーションです。
 
+## 📺 デモ動画 (音声もございますので音声有りでご視聴ください)
+
+
+
+https://github.com/user-attachments/assets/ed108e8f-f8b4-49cb-95ef-fec85c14b1cb
+
+
+
+
+---
+
 ## ✨ 特徴 (User Experience)
 
 ユーザーが「単語を入力するだけ」で学習が完結する体験を目指しました。
