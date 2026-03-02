@@ -48,10 +48,10 @@
 
 Android実機で動作を確認いただけるパッケージを用意しています。
 
-- [👉 vokanote v1.0.0 (APK) をダウンロード]([vakanote_portfolio](vakanote_portfolio))
+- [👉 vokanote v1.0.0 (APK) をダウンロード]([VaKaNote-Portfolio-release.apk](VaKaNote-Portfolio-release.apk))
 
 > **⚠️ インストール時の注意**
-> 本アプリは開発用パッケージ（ストア外配信）のため、Android端末で警告が表示される場合があります。安全な自作アプリですので、「詳細」→「そのままインストール」を選択して続行してください。
+> 本アプリは開発用パッケージ（ストア外配信）のため、Android端末で警告が表示される場合があります。
 
 ---
 
